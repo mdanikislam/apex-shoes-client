@@ -18,3 +18,5 @@ Description: Apex Corporation is a Czech multinational footwear and fashion acce
 - MongoDB
 - React hook form
 - React Rating
+
+#### Default Eamil: admin@admin.com Pass:123456
